@@ -1,2 +1,3 @@
-# talks-ato-2025-epic-app-performance
-Slides and examples from my ⚡ talk Epic App Performance Starts With the Database at All Things Open 2025
+# Epic App Performance Starts with the Database
+
+Hi there 👋🏻 This is repo contains the slides for the talk _Epic App Performance Starts with the Database_ at All Things Open 2025.
