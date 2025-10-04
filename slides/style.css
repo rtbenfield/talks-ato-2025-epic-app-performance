@@ -1,0 +1,4 @@
+.slidev-code {
+  /* disable Fira Code font ligatures */
+  font-variant-ligatures: none;
+}

@@ -1,0 +1,9 @@
+{
+    "name": "talks-ato-2025-epic-app-performance",
+    "version": "1.0.0",
+    "packageManager": "pnpm@10.18.0",
+    "scripts": {
+        "bench": "pnpm run --filter benchmarks bench",
+        "slides": "pnpm run --filter slides dev"
+    }
+}

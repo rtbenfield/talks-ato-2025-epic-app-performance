@@ -1,0 +1,23 @@
+Allan Liz
+Bench Morris
+Brant Betty
+Brock Eddie
+Connors Billy
+Connors Curt
+Cooper Carlie
+DeWolff Jean
+Dillon Max
+Gargan Mac
+Hardy Felicia
+Hardy Walter
+Jameson J. Jonah
+Jameson John
+Jameson Marla
+Kasady Cletus
+Kravinoff Adelaide
+Kravinoff Alyosha
+Leeds Ned
+Lincoln Lonnie
+Manfredi Silvio
+Marko Flint
+Octavius Otto
